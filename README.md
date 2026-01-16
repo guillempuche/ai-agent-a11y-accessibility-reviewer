@@ -5,7 +5,11 @@ Use this agent to review code for accessibility (a11y) compliance. Use after wri
 ## Install
 
 ```bash
+# Add marketplace
 /plugin marketplace add guillempuche/ai-agent-a11y-accessibility-reviewer
+
+# Install plugin
+/plugin install ai-agent-a11y-accessibility-reviewer@guillempuche-ai-agent-a11y-accessibility-reviewer
 ```
 
 ## Part of AI Standards

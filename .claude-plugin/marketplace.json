@@ -1,0 +1,13 @@
+{
+  "name": "ai-agent-a11y-accessibility-reviewer",
+  "owner": {
+    "name": "guillempuche",
+    "url": "https://github.com/guillempuche"
+  },
+  "plugins": [
+    {
+      "name": "ai-agent-a11y-accessibility-reviewer",
+      "source": "./"
+    }
+  ]
+}
