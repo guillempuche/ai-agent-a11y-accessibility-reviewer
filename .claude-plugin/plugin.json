@@ -1,0 +1,13 @@
+{
+  "name": "ai-agent-a11y-accessibility-reviewer",
+  "version": "1.0.0",
+  "description": "Use this agent to review code for accessibility (a11y) compliance. Use after writing UI components, forms, navigation, or interactive elements. Evaluates WCAG 2.1/2.2, WAI-ARIA, VoiceOver, and TalkBac",
+  "author": {
+    "name": "guillempuche",
+    "url": "https://github.com/guillempuche"
+  },
+  "homepage": "https://github.com/guillempuche/ai-agent-a11y-accessibility-reviewer",
+  "repository": "https://github.com/guillempuche/ai-agent-a11y-accessibility-reviewer",
+  "license": "MIT",
+  "agents": "./agents/"
+}
