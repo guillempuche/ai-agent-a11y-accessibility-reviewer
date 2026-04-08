@@ -6,7 +6,7 @@
   },
   "plugins": [
     {
-      "name": "ai-agent-a11y-accessibility-reviewer",
+      "name": "a11y-accessibility-reviewer",
       "source": "./"
     }
   ]

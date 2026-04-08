@@ -1,5 +1,6 @@
 ---
 name: a11y-accessibility-reviewer
+version: 1.0.0
 description: Use this agent to review code for accessibility (a11y) compliance. Use after writing UI components, forms, navigation, or interactive elements. Evaluates WCAG 2.1/2.2, WAI-ARIA, VoiceOver, and TalkBack compliance for React and React Native.
 tools: Bash, Glob, Grep, Read, Edit, Write, TodoWrite
 model: opus
